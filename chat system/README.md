@@ -65,17 +65,6 @@ for client:  g++ wx-config --cxxflags client.cpp -o client `wx-config --libs
 ./client
 ```
 
-## Screenshots
-
-![App Screenshot](screenshots\windows\server.png)
-![App Screenshot](screenshots\windows\Screenshot(88).png)
-![App Screenshot](screenshots\windows\Screenshot(90).png)
-![App Screenshot](screenshots\windows\Screenshot(89).png)
-![App Screenshot](screenshots\windows\Screenshot(93).png)
-![App Screenshot](screenshots\windows\Screenshot(94).png)
-![App Screenshot](screenshots\windows\Screenshot(95).png)
-![App Screenshot](screenshots\windows\Screenshot(96).png)
-![App Screenshot](screenshots\linux\linux.jpg)
 ## Support
 
 - if you have problem in setting up in windows contact @BIJAYA KHANAL.
